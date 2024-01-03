@@ -1,7 +1,7 @@
 ---
-name: Tarun Amarnath
+name: Nima Rahmanian
 role: Content TA
-email: tarunamarnath@
+email: nimsi@
 photo: assets/staff_pics/tarun.jpg
 ---
 
