@@ -17,7 +17,7 @@ description: >-
 
 ---
 ## General
-- <a href="https://berkeley.zoom.us/s/91438087917">Class Zoom meetings</a>
+- <a href="">Class Zoom meetings</a>
 - <a href="https://docs.google.com/document/d/16PCs4Sbj7_umLd0PeCSyZXmgHYstW9cnrNjbURezPro/edit?usp=sharing">Self-care and wellness resources</a>
 
 ## Project Resources
@@ -49,6 +49,6 @@ Other material will be drawn from:
 - [The Kinematics of Contact and Grasp, Montana](assets/misc/David Montana.1988.pdf)
 
 ## Final Project Resources
-- [Final Project Guidelines](assets/final_proj/C106B_Final_Project_Guidelines.pdf)
-- [Report Template](assets/final_proj/template.zip)
+- Final Project Guidelines (TBD)
+- Report Template (TBD)
 
