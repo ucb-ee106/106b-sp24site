@@ -21,19 +21,19 @@ description: >-
 
 ## Overview
 
-This course will be taught in a seminar style, with lectures, 6 homeworks, 5 assigned projects, 1 midterm, weekly paper presentations (2 per person), and a final project. **All submissions will go through Gradescope (Course Entry Code: WVK62G)**. An [Ed page](https://edstem.org/us/join/a9HVFG) has been created for students to discuss homeworks and projects. 
+This course will be taught in a seminar style, with lectures, 6 homeworks, 5 assigned projects, 1 midterm, weekly paper presentations (2 per person), and a final project. **All submissions will go through Gradescope (Course Entry Code: WVK62G)**. An Ed page has been created for students to discuss homeworks and projects. 
 
 Each week, there are 3 hours of lecture, 1 hour of discussion, and 1 hour of organized paper-reading time in lab sections. All of these and office hours will be hosted in-person. You are expected to work on projects during your own time. A booking system will be instituted to reserve robots, and lab TAs will be availble to address any questions during their office hours. Lecture and discussion sections will be recorded and posted, so you may attend these asynchronously. However, due to the journal club nature of lab sections, they will not be offered asynchronously, **and you are expected to attend your lab section every week.**
 
 ## Lecture
-Lecture will be Tuesday and Thursday from 2:00pm to 3:30pm in North Gate 105. Lectures will be recorded for asynchronous viewing, though we highly recommend you attend live in order to ask questions and engage fully with the material.
+Lecture will be Tuesday and Thursday from 2:00pm to 3:30pm in Mulford 159. Lectures will be recorded for asynchronous viewing, though we highly recommend you attend live in order to ask questions and engage fully with the material.
 
 ## Discussions
 Discussion sections will be on Wednesday from 1-2pm and Friday from 2-3pm, room TBD. They will have a review of important topics and go over practice problems related to the material to supplement lecture content. 
 
 ## Homeworks
 
-Homeworks will be collected and graded using the Gradescope system. Create an account on gradescope.com with your Berkeley email account and SID. Add this course with the code **WVK62G**.
+Homeworks will be collected and graded using the Gradescope system. Create an account on gradescope.com with your Berkeley email account and SID. 
 
 Each student is allocated **5 total days of extension**, to be used on any homework assignment with no loss of points. To allow for homework solutions to be released in a timely manner, **no more than 2 extension days may be used on a single assignment.** No homework will be accepted past two days of extension. 
 
@@ -57,8 +57,8 @@ Projects in 106B/206B delve into active areas of research and as a result are mo
 The lab in Cory 105 is open for use for the projects and the final project. The robots/hardware will be shared. Similar to how final projects in C106A worked, we will organize the robots’ time using a reservation systems.
 
 Projects will be done in groups of 3, but groups of 2 are also acceptable. Each team may only reserve 2 hours at a time and can only make a new reservation once all of the team’s existing reservation times have ended. If a team is caught abusing this policy and overbooking, a 50% penalty will be deducted from the group’s project grade. Each project team will be assigned to a robot. Please reserve times on the following calendars:
-- [Arm Robot Calendars](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUI5cjdCWXBYRUlOfGRlZmF1bHR8OTZhMTUwZjIxMzJjNTk1ZDJhNjkwMzdkODQ4MjU5Yjk)
-- [Turtlebot Calendars](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UU5TVWdkRl9QT3FYfGRlZmF1bHR8MGExODU4NjFhNzQ2NTU4MzUxNDJiZDc2MmJkOWM5OGE)
+- Arm Robot Calendars
+- Turtlebot Calendars
 - Soft Robot Calendars
 
 Similar to homeworks, each student is allocated **5 total slip days**, with **no more than 2 extension days for a single project.** These are counted separately from homework slip days.
@@ -95,7 +95,7 @@ Due to the types of deliverables involved (e.g., live demonstrations), extension
 
 The instructors will hold weekly office hours to discuss lecture content, homework assignments, projects, and other course material. We will try our best to schedule them so that each student has the opportunity to attend at least one office hour each week. When discussing a current homework assignment, instructors will **not** provide solutions. Rather, instructors will be happy to help clarify fundamentals and to guide students' reasoning in related problems.
 
-**Content** questions can go to **any TA or the professor**. Questions regarding **homeworks** should be directed to **Max** and **Tarun**. Questions regarding **projects** can be directed to **any TA**. Questions regarding **course logistics** should be directed to **Tarun**. All questions can be directed to **Ed** for the fastest response. When emailing staff, please prefix the subject line with **[EECS 106B]**.
+**Content** questions can go to **any TA or the professor**. Questions regarding **homeworks** should be directed to **Tarun** and **Nima**. Questions regarding **projects** can be directed to **any TA**. Questions regarding **course logistics** should be directed to **Kirthi**. All questions can be directed to **Ed** for the fastest response. When emailing staff, please prefix the subject line with **[EECS 106B]**.
 
 
 
