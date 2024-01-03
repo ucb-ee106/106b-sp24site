@@ -1,6 +1,6 @@
 ---
 name: Karim El-Refai
-role: Teaching Assistant
+role: Content TA
 email: karim.el-refai@
 photo: assets/staff_pics/karim.png
 ---
