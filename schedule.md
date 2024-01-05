@@ -5,12 +5,7 @@ nav_order: 2
 description: The weekly event schedule.
 ---
 
-# Schedule
 
-<!-- ## Section and Lecture Schedule -->
+# Calendar
 
-{% include schedule.html data=site.data.schedule.weekly interval=30 row_height=40 font_size='100%' %}
-
-<!-- ## Office Hours Schedule -->
-
-<!-- {% include schedule.html data=site.data.schedule.office-hours interval=30 row_height=40 font_size='85%' %} -->
+<iframe src="https://calendar.google.com/calendar/u/0?cid=Y19hZmZkNTcxMWI2MGYzNjA2MjNhODQ5YjY5NTQ5NDYyNDY4ZTRkYjk5ZjYyZWIzNDU0NWJhNDcyNmU3ZGMyOWE4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20" style="border:solid 1px #777" width="900" height="700" frameborder="0" scrolling="no"></iframe>
