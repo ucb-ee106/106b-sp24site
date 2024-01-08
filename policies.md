@@ -21,15 +21,15 @@ description: >-
 
 ## Overview
 
-This course will be taught in a seminar style, with lectures, 6 homeworks, 5 assigned projects, 1 midterm, weekly paper presentations (2 per person), and a final project. **All submissions will go through Gradescope (Course Entry Code: WVK62G)**. An Ed page has been created for students to discuss homeworks and projects. 
+This course will be taught in a seminar style, with lectures, 6 homeworks, 5 assigned projects, 1 midterm, weekly paper presentations (2 per person), and a final project. **All submissions will go through Gradescope**. There is also an Ed page for students to discuss homeworks and projects. 
 
-Each week, there are 3 hours of lecture, 1 hour of discussion, and 1 hour of organized paper-reading time in lab sections. All of these and office hours will be hosted in-person. You are expected to work on projects during your own time. A booking system will be instituted to reserve robots, and lab TAs will be availble to address any questions during their office hours. Lecture and discussion sections will be recorded and posted, so you may attend these asynchronously. However, due to the journal club nature of lab sections, they will not be offered asynchronously, **and you are expected to attend your lab section every week.**
+Each week, there are 3 hours of lecture, 1 hour of discussion, and 1 hour of organized paper-reading time in lab sections. All of these and office hours will be hosted in-person. You are expected to work on projects during your own time. A booking system will be instituted to reserve robots, and lab TAs will be availble to address any questions during their office hours. Lecture and discussion sections will be recorded and posted. However, journal club will not be offered asynchronously, **and you are expected to attend your section every week.**
 
 ## Lecture
 Lecture will be Tuesday and Thursday from 2:00pm to 3:30pm in Mulford 159. Lectures will be recorded for asynchronous viewing, though we highly recommend you attend live in order to ask questions and engage fully with the material.
 
 ## Discussions
-Discussion sections will be on Wednesday from 1-2pm and Friday from 2-3pm, room TBD. They will have a review of important topics and go over practice problems related to the material to supplement lecture content. 
+There will be two offered discussion sections, please refer to the calendar for when they are taught. They will have a review of important topics and go over practice problems related to the material to supplement lecture content. 
 
 ## Homeworks
 
@@ -39,7 +39,7 @@ Each student is allocated **5 total days of extension**, to be used on any homew
 
 Collaboration on homework sets is encouraged, but all students must write up their own solution set. Additionally, every student is accountable for the solutions they submit and may be asked to discuss them with a GSI or instructor. **Please list all collaborators at the top of each submitted homework set.**
 
-We will hold **weekly homework/project parties**! They will be held each Monday 6:00pm - 8:00pm. They will be staffed by one or more TAs to assist students working collaboratively through the homework or project. 
+We will hold **weekly homework/project parties**! Please refer to the calendar for the day/time. They will be staffed by one or more TAs to assist students working collaboratively through the homework or project. 
 
 | **Homework** | **Date Assigned** | **Due Date** |
 |Homework 1: Dynamical Systems| 1/18 | 1/24 |
@@ -56,7 +56,7 @@ Projects in 106B/206B delve into active areas of research and as a result are mo
  
 The lab in Cory 105 is open for use for the projects and the final project. The robots/hardware will be shared. Similar to how final projects in C106A worked, we will organize the robots’ time using a reservation systems.
 
-Projects will be done in groups of 3, but groups of 2 are also acceptable. Each team may only reserve 2 hours at a time and can only make a new reservation once all of the team’s existing reservation times have ended. If a team is caught abusing this policy and overbooking, a 50% penalty will be deducted from the group’s project grade. Each project team will be assigned to a robot. Please reserve times on the following calendars:
+Projects will be done in groups of 3, but groups of 2 are also acceptable. Each team may only reserve 2 hours at a time and can only make a new reservation once all of the team’s existing reservation times have ended. If a team is caught abusing this policy and overbooking, a 50% penalty will be deducted from the group’s project grade. Each project team will be assigned to a robot. Please reserve times on the following calendars (will be linked here once the semester starts):
 - Arm Robot Calendars
 - Turtlebot Calendars
 - Soft Robot Calendars
@@ -65,11 +65,11 @@ Similar to homeworks, each student is allocated **5 total slip days**, with **no
 
 | **Project** | **Date Assigned** | **Due Date** |
 |Lab 0: Review of ROS | 1/18 | N/A |
-|Project 1A: Trajectory Tracking with Sawyer | 1/18 | 1/31 |
-|Project 1B: Trajectory Tracking with Sawyer | 2/1 | 2/14 |
+|Project 1: 106A Recap & Visual Servoing with Sawyer | 1/18 | 1/31 |
 |Project 2: Nonholonomic Control | 2/15 | 3/14 |
-|Project 3: State Estimation | 3/15 | 4/7 |
-|Project 4: Decentralized Multi-Agent Control | 4/5 | 4/28 |
+|Project 3: Grasping | TBD | TBD |
+|Project 4: State Estimation | 3/15 | 4/7 |
+|Project 5: Decentralized Multi-Agent Control | 4/5 | 4/28 |
 
 ## Midterm
 
@@ -96,9 +96,6 @@ Due to the types of deliverables involved (e.g., live demonstrations), extension
 The instructors will hold weekly office hours to discuss lecture content, homework assignments, projects, and other course material. We will try our best to schedule them so that each student has the opportunity to attend at least one office hour each week. When discussing a current homework assignment, instructors will **not** provide solutions. Rather, instructors will be happy to help clarify fundamentals and to guide students' reasoning in related problems.
 
 **Content** questions can go to **any TA or the professor**. Questions regarding **homeworks** should be directed to **Tarun** and **Nima**. Questions regarding **projects** can be directed to **any TA**. Questions regarding **course logistics** should be directed to **Kirthi**. All questions can be directed to **Ed** for the fastest response. When emailing staff, please prefix the subject line with **[EECS 106B]**.
-
-
-
 
 
 # Grading
