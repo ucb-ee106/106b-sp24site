@@ -2,10 +2,10 @@
 title: Week 4 - Multi-Input Feedback Linearization and Nonholonomic Systems
 days:
   - topic: Multi-Input Feedback Linearization with Dynamic Extension, Application to Planar Quadrotors
-    date: 2023-02-07
+    date: 2023-02-06
     description:  (Boardwork) (Video)  <br /> Reading - MLS Chapter 8
   - topic: Introduction to Nonholonomic Motion Planning
-    date: 2023-02-09
+    date: 2023-02-08
     description:  (Slides) (Boardwork) (Video)  <br /> Reading - MLS
 ---
 

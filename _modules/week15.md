@@ -2,10 +2,10 @@
 title: Week 15 - The Future Is Now
 days:
   - topic: Autonomous Cars (feat. Ritika Srivastava)
-    date: 2023-04-25
+    date: 2023-04-23
     description: (Slides) (Boardwork) (Video)
   - topic: AR/VR (feat. Prof. Allen Yang)
-    date: 2023-04-27
+    date: 2023-04-25
     description: (Slides) (Boardwork) (Video)
 ---
 
