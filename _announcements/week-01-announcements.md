@@ -8,7 +8,7 @@ We're extremely excited to have you! It's going to be a great semester. We've sp
 - Homework 1 released
 - Project 1 released
 - Discussion 1
-- Assessment
+- 106A Assessment (for those who haven't taken 106A)
 - Optional Project 0
 - Sign up for journal club section and paper presentations
 

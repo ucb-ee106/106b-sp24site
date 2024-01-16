@@ -22,20 +22,15 @@ description: >-
 
 ## Project Resources
 
-- [Robot Usage Guide](https://ucb-ee106.github.io/106b-sp23site/assets/proj/robot_usage_guide_sp23.pdf)
-- [Python Intro](assets/labs/resources/python_intro.pdf)
-- [ROS Cheat Sheet](assets/labs/resources/ROS_cheat_sheet.pdf)
-- [Linux Intro](assets/labs/resources/linux_intro.pdf)
-- [NumPy Notes](assets/labs/resources/numpy_notes.pdf)
-- [ROS Installation](assets/labs/resources/ROS_installation.pdf)
-- Tiffany's Python & NumPy Crash Course [Video](https://www.youtube.com/watch?v=VJqbBfldUA0) [Slides](https://docs.google.com/presentation/d/1eIrtNVbQjC0Q-ueunNR6APtRpLtZBzlFfeABmp63eNw/edit?usp=sharing)
-- Stella's Linux Bootcamp [Video](https://www.youtube.com/watch?v=fpt1wutdu10) [Slides](https://docs.google.com/presentation/d/1Yip52Hs7v36rLFD6M4RlU22KnoVtl5WQV0TBaejjsr0/edit?usp=sharing)
+- [Robot Usage Guide](https://ucb-ee106.github.io/106b-sp24site/assets/proj/robot_usage_guide_sp24.pdf)
+- Tiffany's Python & NumPy Crash Course [Slides](https://docs.google.com/presentation/d/1eIrtNVbQjC0Q-ueunNR6APtRpLtZBzlFfeABmp63eNw/edit?usp=sharing)
+- Stella's Linux Bootcamp [Slides](https://docs.google.com/presentation/d/1Yip52Hs7v36rLFD6M4RlU22KnoVtl5WQV0TBaejjsr0/edit?usp=sharing)
 - Ron's ROS Basics [Video](https://www.youtube.com/watch?v=qFVtJcGoJvw)
 
 ## Lecture Supplements 
 
 The required texts are
-- Richard Murray, Zexiang Li and S. Shankar Sastry, <a href="https://ucb-ee106.github.io/eecs106b-fa22/assets/MLS.pdf">A Mathematical Introduction to Robotic Manipulation</a>, 1993. 
+- Richard Murray, Zexiang Li and S. Shankar Sastry, <a href="https://ucb-ee106.github.io/eecs106b-sp24site/assets/MLS.pdf">A Mathematical Introduction to Robotic Manipulation</a>, 1993. 
 - Y. Ma, S Soatto, J. Kosecka, and S. Sastry, An Invitation to 3-D Vision: From Images to Geometric Models, Springer Verlag 2004. The textbook is <a href="https://link.springer.com/book/10.1007/978-0-387-21779-6">here</a>. You will need to use the <a href="https://www.lib.berkeley.edu/help/connect-off-campus">UCB Library VPN.</a> (I recommend adding the browser bookmark, it's super useful to log into scientific websites quickly)
 
 Other material will be drawn from:
