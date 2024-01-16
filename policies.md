@@ -39,7 +39,7 @@ Each student is allocated **5 total days of extension**, to be used on any homew
 
 Collaboration on homework sets is encouraged, but all students must write up their own solution set. Additionally, every student is accountable for the solutions they submit and may be asked to discuss them with a GSI or instructor. **Please list all collaborators at the top of each submitted homework set.**
 
-We will hold **weekly homework/project parties**! Please refer to the calendar for the day/time. They will be staffed by one or more TAs to assist students working collaboratively through the homework or project. 
+We will hold **weekly homework/project parties**! Please refer to the calendar for the day/time. They will be staffed by one or more TAs to assist students working collaboratively through the homework or project. The following dates are subject to change.
 
 | **Homework** | **Date Assigned** | **Due Date** |
 |Homework 1: Dynamical Systems| 1/18 | 1/24 |
@@ -57,23 +57,23 @@ Projects in 106B/206B delve into active areas of research and as a result are mo
 The lab in Cory 105 is open for use for the projects and the final project. The robots/hardware will be shared. Similar to how final projects in C106A worked, we will organize the robots’ time using a reservation systems.
 
 Projects will be done in groups of 3, but groups of 2 are also acceptable. Each team may only reserve 2 hours at a time and can only make a new reservation once all of the team’s existing reservation times have ended. If a team is caught abusing this policy and overbooking, a 50% penalty will be deducted from the group’s project grade. Each project team will be assigned to a robot. Please reserve times on the following calendars (will be linked here once the semester starts):
-- Arm Robot Calendars
-- Turtlebot Calendars
-- Soft Robot Calendars
+- Arm Robot Calendars [Reserve Here](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUFBVGVYakM0V3lpfGRlZmF1bHR8YTFlNjA0Y2E3Mzk4OTk0NjI2Zjc2MjU1NjY4NTVmMzg)
+- Turtlebot Calendars [Reserve Here](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUV1ZXFPY25yTlp3fGRlZmF1bHR8NTk0NGQ1ZmVhYmFhN2Y5ODc1MzQ5MmJkOTYxNzg0NWY)
+- Soft Robot Calendars (Reservation Calendar TBA)
 
-Similar to homeworks, each student is allocated **5 total slip days**, with **no more than 2 extension days for a single project.** These are counted separately from homework slip days.
+Similar to homeworks, each student is allocated **5 total slip days**, with **no more than 2 extension days for a single project.** These are counted separately from homework slip days. The following dates are subject to change.
 
 | **Project** | **Date Assigned** | **Due Date** |
-|Lab 0: Review of ROS | 1/18 | N/A |
-|Project 1: 106A Recap & Visual Servoing with Sawyer | 1/18 | 1/31 |
-|Project 2: Nonholonomic Control | 2/15 | 3/14 |
-|Project 3: Grasping | TBD | TBD |
-|Project 4: State Estimation | 3/15 | 4/7 |
-|Project 5: Decentralized Multi-Agent Control | 4/5 | 4/28 |
+|Lab 0: Review of ROS | 1/16 | N/A |
+|Project 1: 106A Recap & Visual Servoing with Sawyer | 1/23 | 2/2 |
+|Project 2: Nonholonomic Control | 2/6 | 2/23 |
+|Project 3: Grasping | 2/27 | 3/15 |
+|Project 4: State Estimation | 3/19 | 4/5 |
+|Project 5: Decentralized Multi-Agent Control | 4/9 | 4/26 |
 
 ## Midterm
 
-There will be **one midterm** to ensure students are caught up with course material. It will be a take-home exam that can be completed during any time in a three day window, **from 4/19 to 4/21**. Logistics will be released closer to the test dates.
+There will be **one midterm** to ensure students are caught up with course material. It will be a take-home exam that can be completed during any time in a three day window, dates TBA, but expect late April. Logistics will be released closer to the test dates.
 
 ## Lab Sections and Paper Presentations
 Lab sections are not offered asynchronously. At the beginning of lab section, the GSI will go over any announcements, including introducing any new projects. Then, there will be a discussion of two assigned papers.
@@ -136,7 +136,7 @@ While  we  will  abide  by  the  policies  listed  above  regarding  specific  a
 
 ## Disability Accommodations & Emergencies
 
-If you need disability-related accommodations in this class, please inform us immediately. Please see the professor or Tarun privately after class, or send us an email.
+If you need disability-related accommodations in this class, please inform us immediately. Please see the professor or Kirthi privately after class, or send us an email.
 
 ## Collaboration Policy
 
