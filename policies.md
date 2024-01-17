@@ -33,7 +33,7 @@ There will be two offered discussion sections, please refer to the calendar for 
 
 ## Homeworks
 
-Homeworks will be collected and graded using the Gradescope system. Create an account on gradescope.com with your Berkeley email account and SID. 
+Homeworks will be collected and graded using the Gradescope system. Create an account on gradescope.com with your Berkeley email account and SID, and you can add this class using this code: **WBZ7DE**. 
 
 Each student is allocated **5 total days of extension**, to be used on any homework assignment with no loss of points. To allow for homework solutions to be released in a timely manner, **no more than 2 extension days may be used on a single assignment.** No homework will be accepted past two days of extension. 
 

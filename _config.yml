@@ -28,11 +28,11 @@ permalink: pretty
 nav_links:
   Other:
     Gradescope:
-      - ''
+      - 'https://www.gradescope.com/courses/712379'
     Ed:
-      - ''
+      - 'https://edstem.org/us/courses/54072/discussion/'
     Textbook:
-      - 'https://ucb-ee106.github.io/106b-sp23site/assets/MLS.pdf'
+      - 'https://ucb-ee106.github.io/106b-sp24site/assets/MLS.pdf'
     Course Notes:
       - 'https://drive.google.com/file/d/1uzjuJoI9FDZhqb9qeefpOhM-Egl7NNdm/view?usp=sharing'
 # aux_links:
