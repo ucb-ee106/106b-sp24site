@@ -8,7 +8,7 @@ days:
     date: 2023-01-20
     description: (Slides <br /> Reading - MLS Ch 3.4, 4.1-4.3
 ---
-- Discussion 1: Dynamical Systems & Linear Control (Worksheet) (Boardwork) (Video) (Solutions)
+- Discussion 1: Dynamical Systems & Linear Control ([Worksheet](https://ucb-ee106.github.io/106b-sp24site/assets/disc/disc1_systems.pdf)) (Boardwork) (Video) (Solutions)
 - Homework 1: Dynamical Systems (due 1/24)
 - Project 1: Trajectory Tracking with Sawyer (due 1/31): Intro Video
 - Lab Slides
