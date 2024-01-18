@@ -7,8 +7,8 @@ We're extremely excited to have you! It's going to be a great semester. We've sp
 **This week:**
 - [Homework 1](assets/hw/hw1.pdf) released
 - Discussion 1
-- 106A Assessment (for those who haven't taken 106A)
-- Optional Project 0
+- [106A Assessment](assets/misc/background_assessment.pdf) (for those who haven't taken 106A)
+- [Optional Project 0](assets/proj/proj0.pdf)
 - Sign up for journal club section and paper presentations
 
 {: .fs-5 }

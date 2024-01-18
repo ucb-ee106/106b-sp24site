@@ -2,7 +2,7 @@
 name: Michael Psenka
 role: Content TA
 email: karim.el-refai@
-photo: assets/staff_pics/michael.png
+photo: assets/staff_pics/michael.jpg
 ---
 
 Lab TA
