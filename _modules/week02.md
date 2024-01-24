@@ -11,7 +11,7 @@ days:
 
 - Discussion 2: Lyapunov Stability (Worksheet) (Boardwork) (Video) (Solutions)
 - Homework 2: Controls (PDF)
-- Project 1: Visual Servoing ([PDF]((https://ucb-ee106.github.io/106b-sp24site/assets/proj/project1.pdf)) due 2/2!
+- Project 1: Visual Servoing ([PDF](assets/proj/proj1.pdf))) due 2/2!
 - Lab Slides
 - Robot Usage Guide
 
