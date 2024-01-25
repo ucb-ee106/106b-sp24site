@@ -9,7 +9,7 @@ days:
     description: (Slides)(Boardwork)  <br /> Reading - MLS 4.4 and Chapter 8
 ---
 
-- Discussion 2: Lyapunov Stability (Worksheet) (Boardwork) (Video) (Solutions)
+- Discussion 2: Lyapunov Stability and Optimization ([Worksheet](https://ucb-ee106.github.io/106b-sp24site/assets/disc/disc2_lyapunov.pdf)) (Boardwork) (Video) (Solutions)
 - Homework 2: Controls (due 2/7) (PDF)
 - Lab Slides
 - Robot Usage Guide
