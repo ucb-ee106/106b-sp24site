@@ -13,7 +13,6 @@ days:
 - Homework 2: Controls (PDF)
 - Project 1: Visual Servoing ([PDF](assets/proj/proj1.pdf))) due 2/2!
 - Lab Slides
-- Robot Usage Guide
 
 <a id="Week3"></a>
 

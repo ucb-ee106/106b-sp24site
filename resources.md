@@ -17,7 +17,6 @@ description: >-
 
 ---
 ## General
-- <a href="">Class Zoom meetings</a>
 - <a href="https://docs.google.com/document/d/16PCs4Sbj7_umLd0PeCSyZXmgHYstW9cnrNjbURezPro/edit?usp=sharing">Self-care and wellness resources</a>
 
 ## Project Resources
