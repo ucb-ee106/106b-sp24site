@@ -1,11 +1,14 @@
 ---
 title: Week 2
 ---
-- Journal club begins!
+- [Homework 1](https://ucb-ee106.github.io/106b-sp24site/assets/hw/hw1.pdf) is due Wednesday 1/24
+- [Project 1](https://ucb-ee106.github.io/106b-sp24site/assets/proj/proj1.pdf) is released & due next Friday 2/2
+- First journal club this week!
+- Complete Robot Usage Quiz on Gradescope
+
 - Discussion 2: Lyapunov Stability and Optimization ([Worksheet](https://ucb-ee106.github.io/106b-sp24site/assets/disc/disc2_lyapunov.pdf)) (Boardwork) (Video) (Solutions)
-- [106A Assessment](assets/misc/106a_assignment.pdf) (for those who haven't taken 106A)
-- [Optional Project 0](assets/proj/proj0.pdf)
-- Homework 1 due Wednesday
-- Homework 2 released
+- Homework 2 released (due 2/7)
+
+<a href="#Week2">Jump to Week 2 </a>
 
 {: .fs-5 }

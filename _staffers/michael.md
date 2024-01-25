@@ -1,7 +1,7 @@
 ---
 name: Michael Psenka
 role: Content TA
-email: karim.el-refai@
+email: psenka@
 photo: assets/staff_pics/michael.jpg
 ---
 

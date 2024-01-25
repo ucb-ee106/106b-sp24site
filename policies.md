@@ -29,7 +29,7 @@ Each week, there are 3 hours of lecture, 1 hour of discussion, and 1 hour of org
 Lecture will be Tuesday and Thursday from 2:00pm to 3:30pm in Mulford 159. Lectures will be recorded for asynchronous viewing, though we highly recommend you attend live in order to ask questions and engage fully with the material.
 
 ## Discussions
-There will be two offered discussion sections, please refer to the calendar for when they are taught. They will have a review of important topics and go over practice problems related to the material to supplement lecture content. 
+There will be two offered discussion sections, please refer to the calendar for when and where they are taught. They will have a review of important topics and go over practice problems related to the material to supplement lecture content. 
 
 ## Homeworks
 
@@ -39,47 +39,47 @@ Each student is allocated **5 total days of extension**, to be used on any homew
 
 Collaboration on homework sets is encouraged, but all students must write up their own solution set. Additionally, every student is accountable for the solutions they submit and may be asked to discuss them with a GSI or instructor. **Please list all collaborators at the top of each submitted homework set.**
 
-We will hold **weekly homework/project parties**! Please refer to the calendar for the day/time. They will be staffed by one or more TAs to assist students working collaboratively through the homework or project. The following dates are subject to change.
+We will hold **weekly homework/project parties**! Please refer to the calendar for the day/time. They will be staffed by two TAs to assist students working collaboratively through the homework or project. The following dates are subject to change.
 
 | **Homework** | **Date Assigned** | **Due Date** |
 |Homework 1: Dynamical Systems| 1/18 | 1/24 |
 |Homework 2: Controls| 1/25 | 2/7 |
-|Homework 3: Path Planning| 2/8 | 2/22 |
-|Homework 4: Filtering and Vision| 3/8 | 3/21|
-|Homework 5: Grasping | 3/22 | 4/18 |
-|Homework 6: Optimal Control & RL | 4/20 | 5/7 |
+|Homework 3: Path Planning| 2/8 | 2/21 |
+|Homework 4: Filtering and Vision| 2/22 | 3/6|
+|Homework 5: Grasping | 3/7 | 3/20 |
+|Homework 6: Optimal Control & RL | 4/2 | 4/17 |
 
+The gap between homeworks 5 and 6 is for spring break.
 
 ## Projects
 
-Projects in 106B/206B delve into active areas of research and as a result are more open-ended than labs in 106A. There are no official checkoffs. Instead, students will work on their own time and turn in a report to Gradescope. Project reports will focus on building the skills required to write scientific literature. Slip days may not be used on project submissions.
+Projects in 106B/206B delve into active areas of research and as a result are more open-ended than labs in 106A. There are no official checkoffs. Instead, students will work on their own time and turn in a report to Gradescope. Project reports will focus on building the skills required to write scientific literature. Projects have their own set of 5 slip days (cannot be combined with homework slip days).
  
 The lab in Cory 105 is open for use for the projects and the final project. The robots/hardware will be shared. Similar to how final projects in C106A worked, we will organize the robots’ time using a reservation systems.
 
-Projects will be done in groups of 3, but groups of 2 are also acceptable. Each team may only reserve 2 hours at a time and can only make a new reservation once all of the team’s existing reservation times have ended. If a team is caught abusing this policy and overbooking, a 50% penalty will be deducted from the group’s project grade. Each project team will be assigned to a robot. Please reserve times on the following calendars (will be linked here once the semester starts):
+Projects will be done in groups of 3, but groups of 2 are also acceptable. Each team may only reserve 2 hours at a time and can only make a new reservation once all of the team’s existing reservation times have ended. If a team is caught abusing this policy and overbooking, they will immediately fail the project they're working on. Each project team will be assigned to a robot. Please reserve times on the following calendars (will be linked here once the semester starts):
 - Arm Robot Calendars [Reserve Here](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUFBVGVYakM0V3lpfGRlZmF1bHR8YTFlNjA0Y2E3Mzk4OTk0NjI2Zjc2MjU1NjY4NTVmMzg)
 - Turtlebot Calendars [Reserve Here](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUV1ZXFPY25yTlp3fGRlZmF1bHR8NTk0NGQ1ZmVhYmFhN2Y5ODc1MzQ5MmJkOTYxNzg0NWY)
 - Soft Robot Calendars (Reservation Calendar TBA)
 
-Similar to homeworks, each student is allocated **5 total slip days**, with **no more than 2 extension days for a single project.** These are counted separately from homework slip days. The following dates are subject to change.
+Each student is allocated **5 total slip days**, with **no more than 2 extension days for a single project.** These are counted separately from homework slip days. The following dates are subject to change.
 
 | **Project** | **Date Assigned** | **Due Date** |
-|Lab 0: Review of ROS | 1/16 | N/A |
-|Project 1: 106A Recap & Visual Servoing with Sawyer | 1/23 | 2/2 |
+|Lab 0: Review of ROS (Optional) | 1/16 | N/A |
+|Project 1: 106A Recap & Visual Servoing with Sawyer | 1/24 | 2/2 |
 |Project 2: Nonholonomic Control | 2/6 | 2/23 |
-|Project 3: Grasping | 2/27 | 3/15 |
-|Project 4: State Estimation | 3/19 | 4/5 |
-|Project 5: Decentralized Multi-Agent Control | 4/9 | 4/26 |
+|Project 3: Grasping | 2/27 | 3/22 |
+|Project 4: State Estimation | 2/27 | 3/22 |
+|Project 5: Decentralized Multi-Agent Control | 4/2 | 4/19 |
 
 ## Midterm
 
-There will be **one midterm** to ensure students are caught up with course material. It will be a take-home exam that can be completed during any time in a three day window, dates TBA, but expect late April. Logistics will be released closer to the test dates.
+There will be **one midterm** to ensure students are caught up with course material. It will be an in-person, synchronous exam on April 11th. Logistics will be released closer to the test date.
 
 ## Lab Sections and Paper Presentations
 Lab sections are not offered asynchronously. At the beginning of lab section, the GSI will go over any announcements, including introducing any new projects. Then, there will be a discussion of two assigned papers.
 
-Each student will be responsible for presenting two papers to their lab section through the course of the semester. This presentation should be around 20 minutes long, and you will be graded based on your level of insight on the material and your ability to answer questions from course staff and other students. You have the option of working with a partner or two for this. Details are to be finalized by the second week of class.
-<!-- The signup link is [here](http://www.google.com). -->
+Each student will be responsible for presenting at least two papers to their lab section through the course of the semester. This presentation should be around 20 minutes long, and you will be graded based on your level of insight on the material and your ability to answer questions from course staff and other students. You have the option of working with a partner or two for this. Details are to be finalized by the second week of class.
 
 After the paper discussions, if there is time remaining, labs will be more free-form and similar in style to office hours. You are encouraged to use this time to work with your group on projects and ask questions. 
 
@@ -126,11 +126,6 @@ Please remember to treat your peers (and hopefully your instructors!) with kindn
 ## A Note on Late Work
 
 While  we  will  abide  by  the  policies  listed  above  regarding  specific  assignment  types,  we  understand  that unforeseen circumstances do happen.  If you feel that you will not be able to complete an assignment on time under the policies listed above due to truly extenuating circumstances, please inform a course instructor as soon as possible and **before** the associated deadline to discuss your situation. Once the deadline has passed, accommodations are unlikely.
-
-
-
-
-
 
 # Miscellaneous Information
 

@@ -10,9 +10,9 @@ days:
 ---
 
 - Discussion 2: Lyapunov Stability and Optimization ([Worksheet](https://ucb-ee106.github.io/106b-sp24site/assets/disc/disc2_lyapunov.pdf)) (Boardwork) (Video) (Solutions)
-- Homework 2: Controls (due 2/7) (PDF)
-- Lab Slides
-- Robot Usage Guide
+- Homework 2: Controls (PDF)
+- Project 1: Visual Servoing ([PDF](assets/proj/proj1.pdf)) due 2/2!
+- [Lab Slides](https://docs.google.com/presentation/d/1OwNOqBmhBPR1Wd6VWOB8yz-Zcadndw-9Bhswl8-h2qk/edit#slide=id.p)
 
 <a id="Week3"></a>
 
