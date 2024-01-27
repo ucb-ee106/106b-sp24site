@@ -6,7 +6,7 @@ title: Week 2
 - First journal club this week!
 - Complete Robot Usage Quiz on Gradescope
 
-- Discussion 2
+- Discussion 2: Lyapunov Stability and Optimization ([Worksheet](https://ucb-ee106.github.io/106b-sp24site/assets/disc/disc2_lyapunov.pdf)) (Boardwork) (Video) (Solutions)
 - Homework 2 released (due 2/7)
 
 <a href="#Week2">Jump to Week 2 </a>
