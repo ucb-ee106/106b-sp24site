@@ -3,10 +3,10 @@ title: Week 2 - Introduction to Basic Lyapunov Stability and Nonlinear Control
 days:
   - topic: Introduction to Linear Control
     date: 2023-01-23
-    description: (Slides) (Boardwork)  <br /> Reading - MLS 4.5
+    description: ([Slides Pt 1](https://docs.google.com/presentation/d/16bUrwxb54nVplWQJfiAbnJhgjfJvb5_r/edit?usp=sharing&ouid=114555070637299507702&rtpof=true&sd=true)) ([Slides Pt 2](https://docs.google.com/presentation/d/1I3e8HBfalkItBX1DEStPrYkqka-j_aNg/edit?usp=sharing&ouid=114555070637299507702&rtpof=true&sd=true)) (Boardwork)  <br /> Reading - MLS 4.5
   - topic: Lyapunov Control and Intro to Feedback Linearization
     date: 2023-01-25
-    description: (Slides)(Boardwork)  <br /> Reading - MLS 4.4 and Chapter 8
+    description: ([Slides](https://drive.google.com/file/d/1yhdr06YfRAeYxRmJFt38eY_qpo06HuLx/view?usp=sharing))(Boardwork)  <br /> Reading - MLS 4.4 and Chapter 8
 ---
 
 - Discussion 2: Lyapunov Stability and Optimization ([Worksheet](https://ucb-ee106.github.io/106b-sp24site/assets/disc/disc2_lyapunov.pdf)) (Boardwork) (Video) (Solutions)
