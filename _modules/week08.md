@@ -1,10 +1,10 @@
 ---
 title: Week 8 - Contacts and Grasping
 days:
-  - topic: Types and models of contact, modeling grasp by multi-fingered hands
+  - topic: Types and models of contact, modeling grasp by multi-fingered hands, Grasp Stability, Manipulability, Grasp Planning
     date: 2023-03-05
     description: (Slides) (Boardwork) (Video) 
-  - topic: Grasp Stability, Manipulability, Grasp Planning
+  - topic: Ken Goldberg Guest Lecture
     date: 2023-03-07
     description: (Slides) (Boardwork) (Video)
 ---

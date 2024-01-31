@@ -1,7 +1,7 @@
 ---
 title: Week 13 - More Soft Robots and RL
 days:
-  - topic: Soft Robotics Part II (Isabella Huang)
+  - topic: Soft Robotics Part II (Guest Lecture - prev. Isabella Huang)
     date: 2023-04-9
     description: (Slides) (Boardwork) (Video)
   - topic: Optimal Control and RL
