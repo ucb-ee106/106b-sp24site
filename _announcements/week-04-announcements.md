@@ -3,8 +3,7 @@ title: Week 4
 ---
 - Homework 2 due Wednesday (2/7)
 - Paper presentations have started in journal club! Make sure you've signed up!
-- Project 2 (due 2/23)
-    - [Arm Robot Calendar](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUFBVGVYakM0V3lpfGRlZmF1bHR8YTFlNjA0Y2E3Mzk4OTk0NjI2Zjc2MjU1NjY4NTVmMzg)
+- Project 2 (due 2/23) ([PDF](https://ucb-ee106.github.io/106b-sp24site/assets/proj/proj2.pdf))
     - [Team Signup Form](https://forms.gle/jqJBsYQYCsc8Cim88)
 - Homework 3: Path Planning (due 2/21) 
 - Discussion 4

@@ -11,6 +11,6 @@ days:
 
 - Discussion 4: Model Predictive Control ([Worksheet](https://ucb-ee106.github.io/106b-sp24site/assets/disc/disc4_mpc.pdf)) (Boardwork) (Video) (Solutions)
 - Homework 3: Path Planning (due 2/21) (PDF)
-- Project 2 (due 2/23) (PDF)
+- Project 2 (due 2/23) ([PDF](https://ucb-ee106.github.io/106b-sp24site/assets/proj/proj2.pdf))
 
 <a id="Week5"></a>
