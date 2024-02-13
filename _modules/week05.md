@@ -10,6 +10,7 @@ days:
 ---
 
 - Discussion 5: Nonholonomic Steering (Worksheet) (Boardwork) (Video) (Solutions) 
+- Homework 3: Path Planning (due 2/26) ([PDF](https://ucb-ee106.github.io/106b-sp24site/assets/hw/hw3.pdf)) ([Code](https://ucb-ee106.github.io/106b-sp24site/assets/hw/hw3_code.pdf))
 - Project 2: Nonholonomic Control (due 3/7) (Slides)
 
 <a id="Week6"></a>
