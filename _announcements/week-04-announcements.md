@@ -5,7 +5,6 @@ title: Week 4
 - Paper presentations have started in journal club! Make sure you've signed up!
 - Project 2 (due 2/23) ([PDF](https://ucb-ee106.github.io/106b-sp24site/assets/proj/proj2.pdf))
     - [Team Signup Form](https://forms.gle/jqJBsYQYCsc8Cim88)
-- Homework 3: Path Planning (due 2/21) 
 - Discussion 4
 - Come to [Office Hours!](https://ucb-ee106.github.io/106b-sp24site/schedule/)
 
