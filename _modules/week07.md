@@ -9,7 +9,7 @@ days:
     description:  (Slides) (Boardwork) (Video)
 ---
 
-- Discussion 6: Probability and Computer Vision (Worksheet) (Boardwork) (Video) (Solutions)
+- Discussion 7: Probability and Computer Vision (Worksheet) (Boardwork) (Video) (Solutions)
 
 
 <a id="Week8"></a>

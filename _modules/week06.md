@@ -9,6 +9,8 @@ days:
     description: (Slides) (Boardwork) (Video)
 ---
 
-- Discussion 9: Grasping (Worksheet) (Boardwork) (Video) (Solutions)
+- Homework 3 due 2/26
+- Project 2 has been extended -- now due 2/27!
+- Discussion 6: Grasping (Worksheet) (Boardwork) (Video) (Solutions)
 
 <a id="Week7"></a>
