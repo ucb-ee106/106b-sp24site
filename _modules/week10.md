@@ -1,7 +1,7 @@
 ---
 title: Week 10 - Finishing Grasping, CBFs
 days:
-  - topic: Grasping Control
+  - topic: Introduction to Optimal Control and Reinforcement Learning
     date: 2023-03-19
     description: (Slides) (Boardwork) (Video)
   - topic: CBFs (Guest Lecture - prev. with Jason Choi)
