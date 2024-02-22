@@ -11,6 +11,6 @@ days:
 
 - Homework 3 due 2/26
 - Project 2 has been extended -- now due 2/27!
-- Discussion 6: Grasping (Worksheet) (Boardwork) (Video) (Solutions)
+- Discussion 6: Grasping ([Worksheet](https://ucb-ee106.github.io/106b-sp24site/assets/disc/disc6_grasping.pdf)) (Boardwork) (Solutions) (Video)
 
 <a id="Week7"></a>
