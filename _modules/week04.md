@@ -4,7 +4,7 @@ days:
   - topic: Introduction to Nonlinear Control
     date: 2023-02-06
     description:  ([Slides](https://drive.google.com/file/d/1k1oQww6CkCOdfwyTNlbXCEENTI2Ejy8P/view?usp=drive_link)) (Boardwork)  <br /> Reading - MLS Chapter 8
-  - topic: Multi-Input Feedback Linearization with Dynamic Extension, Application to Planar Quadrotors
+  - topic: Dynamic Extension, Application to Quadrotors
     date: 2023-02-08
     description:  (Slides) (Boardwork)  <br /> Reading - MLS
 ---

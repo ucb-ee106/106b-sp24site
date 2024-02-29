@@ -10,7 +10,6 @@ title: Week 7
 - Discussion 7: Probability and Computer Vision ([Worksheet](https://ucb-ee106.github.io/106b-sp24site/assets/disc/disc7_prob_cv.pdf)) (Boardwork) (Video) (Solutions)
 
 
-
 <a href="#Week7">Jump to Week 7 </a>
 
 {: .fs-5 }

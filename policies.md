@@ -44,9 +44,9 @@ We will hold **weekly homework/project parties**! Please refer to the calendar f
 | **Homework** | **Date Assigned** | **Due Date** |
 |Homework 1: Dynamical Systems| 1/18 | 1/24 |
 |Homework 2: Controls| 1/25 | 2/7 |
-|Homework 3: Path Planning| 2/8 | 2/21 |
-|Homework 4: Filtering and Vision| 2/22 | 3/6|
-|Homework 5: Grasping | 3/7 | 3/20 |
+|Homework 3: Path Planning| 2/8 | 2/26 |
+|Homework 4: Grasping | 2/29 | 3/13|
+|Homework 5: Filtering and Vision | 3/14 | 3/22 |
 |Homework 6: Optimal Control & RL | 4/2 | 4/17 |
 
 The gap between homeworks 5 and 6 is for spring break.
@@ -67,14 +67,14 @@ Each student is allocated **5 total slip days**, with **no more than 2 extension
 | **Project** | **Date Assigned** | **Due Date** |
 |Lab 0: Review of ROS (Optional) | 1/16 | N/A |
 |Project 1: 106A Recap & Visual Servoing with Sawyer | 1/24 | 2/2 |
-|Project 2: Nonholonomic Control | 2/6 | 2/23 |
-|Project 3: Grasping | 2/27 | 3/22 |
-|Project 4: State Estimation | 2/27 | 3/22 |
+|Project 2: Nonholonomic Control | 2/6 | 2/27 |
+|Project 3: Grasping | 2/28 | 3/22 |
+|Project 4: State Estimation | 2/28 | 3/22 |
 |Project 5: Decentralized Multi-Agent Control | 4/2 | 4/19 |
 
 ## Midterm
 
-There will be **one midterm** to ensure students are caught up with course material. It will be an in-person, synchronous exam on April 11th. Logistics will be released closer to the test date.
+There will be **one midterm** to ensure students are caught up with course material. It will be a take-home, asynchronous exam released on April 11th and due on April 14th. Logistics will be released closer to the test date.
 
 ## Lab Sections and Paper Presentations
 Lab sections are not offered asynchronously. At the beginning of lab section, the GSI will go over any announcements, including introducing any new projects. Then, there will be a discussion of two assigned papers.
@@ -105,7 +105,7 @@ The instructors will hold weekly office hours to discuss lecture content, homewo
 |Homeworks | 20% |
 |Midterm | 15% |
 |Paper Presentations | 5% |
-|Projects 1-5 | 30% |
+|Projects | 30% |
 |Final Project | 30% |
 
 One feedback survey will be posted after the midterm, worth an extra 0.5% of your grade. An additional 0.5% will be granted for completing the end-of-semester university feedback.
