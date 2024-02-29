@@ -9,7 +9,7 @@ days:
     description:  (Slides) (Boardwork) (Video)
 ---
 
-- Discussion 7: Probability and Computer Vision ([Worksheet](https://ucb-ee106.github.io/106b-sp24site/assets/disc/disc7_prob_cv.pdf)) (Boardwork) (Video) (Solutions)
+- Discussion 7: Probability and Computer Vision ([Worksheet](https://ucb-ee106.github.io/106b-sp24site/assets/disc/disc7_prob_cv.pdf)) (Boardwork) (Video) ([Solutions](https://ucb-ee106.github.io/106b-sp24site/assets/disc/disc7_sols.pdf))
 
 
 <a id="Week8"></a>
