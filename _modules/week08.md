@@ -10,6 +10,6 @@ days:
 ---
 
 - Discussion 7: SLAM (Worksheet) (Boardwork) (Video) (Solutions)
-- Homework 4: Computer Vision, SLAM, and Kalman Filtering (due 3/21)
+- [Homework 4: Grasping](https://ucb-ee106.github.io/106b-sp24site/assets/hw/hw4.pdf) (due 3/15)
 
 <a id="Week9"></a>
