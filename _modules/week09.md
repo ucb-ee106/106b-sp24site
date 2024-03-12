@@ -9,7 +9,9 @@ days:
     description: (Slides) (Boardwork) (Video)
 ---
 
-- Discussion 8: Midsemester Review (Worksheet) (Boardwork) (Video) (Solutions)
-- Project 3: State Estimation (due 4/7)
+- Discussion 9: SLAM(Worksheet) (Boardwork) (Video) (Solutions)
+- [Project 3: State Estimation](https://ucb-ee106.github.io/106b-sp24site/assets/proj/proj3.pdf) (due 3/22)
+- [Project 4: Grasping](https://ucb-ee106.github.io/106b-sp24site/assets/proj/proj4.pdf) (due 3/22)
+- [Homework 4: Grasping](https://ucb-ee106.github.io/106b-sp24site/assets/hw/hw4.pdf) (due 3/15)
 
 <a id="Week10"></a>

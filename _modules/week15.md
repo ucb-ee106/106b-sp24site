@@ -1,7 +1,7 @@
 ---
 title: Week 15 - The Future Is Now
 days:
-  - topic: Autonomous Cars (Guest Lecture - prev. Ritika Srivastava)
+  - topic: Legged Robots (Guest Lecture - Prof. Koushil Sreenath)
     date: 2023-04-23
     description: (Slides) (Boardwork) (Video)
   - topic: AR/VR (Guest Lecture - prev. Prof. Allen Yang)
