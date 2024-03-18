@@ -6,7 +6,7 @@ days:
     description: ([Slides](https://drive.google.com/file/d/1rgnWBZpCinxYVQVteNaSCeG98yRuLNkK/view?usp=drive_link)) (Boardwork) (Video) 
   - topic: Finish Steering, Grasping Part I
     date: 2023-02-22
-    description: (Slides) (Boardwork) (Video)
+    description: (Slides) (Boardwork) ([Video](https://youtu.be/1ZjUC1QOTWI))
 ---
 
 - Homework 3 due 2/26
