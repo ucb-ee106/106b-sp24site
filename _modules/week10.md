@@ -9,5 +9,6 @@ days:
     description: (Slides) (Boardwork) (Video)
 ---
 
+- No discussion this week!
 
 <a id="Week12"></a>
