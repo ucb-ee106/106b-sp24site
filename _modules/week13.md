@@ -10,7 +10,7 @@ days:
 ---
 
 - Final Project Guidelines
-- No discussion this week
+- Discussion 10: Control Barrier Functions (Worksheet) (Boardwork) (Video) (Solutions)
 - Project 4: Decentralized Multi-Agent Control (due 4/28) (Slides) (Video)
 
 <a id="Week14"></a>

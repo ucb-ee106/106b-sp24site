@@ -9,7 +9,7 @@ days:
     description: (Slides) (Boardwork) (Video)
 ---
 
-- Discussion 10: Control Barrier Functions (Worksheet) (Boardwork) (Video) (Solutions)
+- Discussion 9: Midsemester Review (Worksheet) (Boardwork) (Video) (Solutions)
 - Homework 5: Grasping (due 4/18)
 
 <a id="Week13"></a>

@@ -8,6 +8,6 @@ days:
     date: 2023-03-21
     description: (Slides) (Boardwork) (Video)
 ---
-- Discussion 9: Midsemester Review (Worksheet) (Boardwork) (Video) (Solutions)
+
 
 <a id="Week12"></a>
