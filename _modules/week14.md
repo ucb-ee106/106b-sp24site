@@ -9,8 +9,6 @@ days:
     description: (Slides) (Boardwork) (Video)
 ---
 
-- Midterm
 - Discussion 11: Optimal Control and Reinforcement Learning (Worksheet) (Video) ([Boardwork)
-- Homework 6: Optimal Control and Reinforcement Learning, due 5/7 
 
 <a id="Week15"></a>
