@@ -69,8 +69,8 @@ Each student is allocated **5 total slip days**, with **no more than 2 extension
 |Project 1: 106A Recap & Visual Servoing with Sawyer | 1/24 | 2/2 |
 |Project 2: Nonholonomic Control | 2/6 | 2/27 |
 |Project 3: Grasping | 2/28 | 3/22 |
-|Project 4: State Estimation | 2/28 | 3/22 |
-|Project 5: Decentralized Multi-Agent Control | 4/2 | 4/19 |
+|Project 4: State Estimation | 2/28 | 4/3 |
+|Project 5: Decentralized Multi-Agent Control | 4/4 | 4/19 |
 
 ## Midterm
 
