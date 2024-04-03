@@ -46,8 +46,8 @@ We will hold **weekly homework/project parties**! Please refer to the calendar f
 |Homework 2: Controls| 1/25 | 2/7 |
 |Homework 3: Path Planning| 2/8 | 2/26 |
 |Homework 4: Grasping | 2/29 | 3/15|
-|Homework 5: Filtering and Vision | 3/14 | 3/22 |
-|Homework 6: Optimal Control & RL | 4/2 | 4/17 |
+|Homework 5: Filtering and Vision | 4/2 | 4/16 |
+|Homework 6: Optimal Control & RL | N/A | N/A |
 
 The gap between homeworks 5 and 6 is for spring break.
 
