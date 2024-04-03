@@ -10,6 +10,5 @@ days:
 ---
 
 - Midterm (released 4/11, due 4/14)
-- Discussion 10: Control Barrier Functions (Worksheet) (Boardwork) (Video) (Solutions)
 
 <a id="Week14"></a>

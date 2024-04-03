@@ -9,6 +9,6 @@ days:
     description: (Slides) (Boardwork) (Video)
 ---
 
-- Discussion 11: Optimal Control and Reinforcement Learning (Worksheet) (Video) ([Boardwork)
+- Discussion 11: Control Barrier Functions (Worksheet) (Boardwork) (Video) (Solutions)
 
 <a id="Week15"></a>
