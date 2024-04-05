@@ -72,9 +72,6 @@ Each student is allocated **5 total slip days**, with **no more than 2 extension
 |Project 4: State Estimation | 2/28 | 4/3 |
 |Project 5: Decentralized Multi-Agent Control | 4/4 | 4/19 |
 
-## Midterm
-
-There will be **one midterm** to ensure students are caught up with course material. It will be a take-home, asynchronous exam released on April 11th and due on April 14th. Logistics will be released closer to the test date.
 
 ## Lab Sections and Paper Presentations
 Lab sections are not offered asynchronously. At the beginning of lab section, the GSI will go over any announcements, including introducing any new projects. Then, there will be a discussion of two assigned papers.
@@ -102,11 +99,10 @@ The instructors will hold weekly office hours to discuss lecture content, homewo
 
 ## Grade Breakdown
 
-|Homeworks | 20% |
-|Midterm | 15% |
+|Homeworks | 25% |
 |Paper Presentations | 5% |
-|Projects | 30% |
-|Final Project | 30% |
+|Projects | 35% |
+|Final Project | 35% |
 
 One feedback survey will be posted after the midterm, worth an extra 0.5% of your grade. An additional 0.5% will be granted for completing the end-of-semester university feedback.
 
