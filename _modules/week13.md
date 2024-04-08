@@ -11,7 +11,7 @@ days:
 
 - Homework 5: Vision and State Estimation ([PDF](https://ucb-ee106.github.io/106b-sp24site/assets/hw/hw5.pdf))
 - Project 5 
-- Final Project Guidelines - Proposals due 4/19 
+- Final Project Guidelines [PDF](https://ucb-ee106.github.io/106b-sp24site/assets/proj/final_proj.pdf) - Proposals due 4/23
 - Discussion 11: HoliCity (Vision & Reconstruction)
 
 <a id="Week14"></a>
