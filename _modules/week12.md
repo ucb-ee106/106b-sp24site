@@ -1,10 +1,10 @@
 ---
-title: Week 12 - Dex-Net and Soft Robots
+title: Week 12 - CBFs and RL
 days:
-  - topic: CBFs (Guest Lecture - Jason Choi)
+  - topic: Jason Choi Guest Lecture (CBFs)
     date: 2023-04-02
     description: (Slides) (Boardwork) (Video)
-  - topic: Soft Robotics Part I (Guest Lecture - prev. Isabella Huang)
+  - topic: Reinforcement Learning
     date: 2023-04-04
     description: (Slides) (Boardwork) (Video)
 ---

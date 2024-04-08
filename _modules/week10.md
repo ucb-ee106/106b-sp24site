@@ -1,10 +1,10 @@
 ---
-title: Week 10 - Finishing Grasping, CBFs
+title: Week 10 - OC + SLAM
 days:
-  - topic: Introduction to Optimal Control and Reinforcement Learning
+  - topic: Introduction to Optimal Control
     date: 2023-03-19
     description: (Slides) (Boardwork) (Video)
-  - topic: CBFs 
+  - topic: Amay Saxena Guest Lecture (SLAM) 
     date: 2023-03-21
     description: (Slides) (Boardwork) (Video)
 ---

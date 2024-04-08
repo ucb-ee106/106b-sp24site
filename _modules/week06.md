@@ -1,5 +1,5 @@
 ---
-title: Week 6 - Steering with Sinusoids and SLAM
+title: Week 6 - Steering with Sinusoids and Grasping
 days:
   - topic: Steering with Sinusoids
     date: 2023-02-20

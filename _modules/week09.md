@@ -1,5 +1,5 @@
 ---
-title: Week 9 - Grasping and Hands
+title: Week 9 - SLAM
 days:
   - topic: SLAM Part I
     date: 2023-03-12

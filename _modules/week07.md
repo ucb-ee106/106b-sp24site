@@ -1,5 +1,5 @@
 ---
-title: Week 7 - SLAM
+title: Week 7 - Grasping
 days:
   - topic: Grasping Part II
     date: 2023-02-27

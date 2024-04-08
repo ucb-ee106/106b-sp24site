@@ -1,10 +1,10 @@
 ---
 title: Week 15 - The Future Is Now
 days:
-  - topic: Legged Robots (Guest Lecture - Prof. Koushil Sreenath)
+  - topic: Prof. Koushil Sreenath Guest Lecture
     date: 2023-04-23
     description: (Slides) (Boardwork) (Video)
-  - topic: AR/VR (Guest Lecture - prev. Prof. Allen Yang)
+  - topic: UAV Group
     date: 2023-04-25
     description: (Slides) (Boardwork) (Video)
 ---

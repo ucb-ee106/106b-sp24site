@@ -1,5 +1,5 @@
 ---
-title: Week 8 - Contacts and Grasping
+title: Week 8 - Vision and Grasping
 days:
   - topic: Michael Psenka Guest Lecture (3D Vision)
     date: 2023-03-05
