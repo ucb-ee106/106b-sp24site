@@ -11,7 +11,7 @@ days:
 
 - Allen Yang's Guest Lecture on Tuesday is Titled: Bridging Artificial General Intelligence and Artificial General Autonomy via High-Precision Digital Twin Modeling and New Human Interaction Modalities
 - Homework 5: Vision and State Estimation ([PDF](https://ucb-ee106.github.io/106b-sp24site/assets/hw/hw5.pdf))
-- Project 5 [PDF]((https://ucb-ee106.github.io/106b-sp24site/assets/proj/proj5.pdf)
+- Project 5 ([PDF](https://ucb-ee106.github.io/106b-sp24site/assets/proj/proj5.pdf))
 - Final Project Guidelines [PDF](https://ucb-ee106.github.io/106b-sp24site/assets/proj/final_proj.pdf) - Proposals due 4/19
 - Discussion 11: Control Barrier Functions (Worksheet) (Boardwork) (Video) (Solutions)
 
