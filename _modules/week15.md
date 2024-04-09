@@ -10,6 +10,5 @@ days:
 ---
 
 - Continue final projects
-- Discussion 11: Optimal Control and Reinforcement Learning (Worksheet) (Video) (Boardwork)
 
 <a id="Week16"></a>
