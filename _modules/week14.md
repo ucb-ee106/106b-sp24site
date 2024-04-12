@@ -9,6 +9,4 @@ days:
     description: (Slides) (Boardwork) (Video)
 ---
 
-- Discussion 12: Optimal Control and Reinforcement Learning ([Worksheet](https://ucb-ee106.github.io/106b-sp24site/assets/disc/disc11_ocrl.pdf)) (Video) (Boardwork)
-
 <a id="Week15"></a>

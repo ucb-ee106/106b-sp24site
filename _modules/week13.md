@@ -13,6 +13,6 @@ days:
 - Homework 5: Vision and State Estimation ([PDF](https://ucb-ee106.github.io/106b-sp24site/assets/hw/hw5.pdf))
 - Project 5 ([PDF](https://ucb-ee106.github.io/106b-sp24site/assets/proj/proj5.pdf))
 - Final Project Guidelines [PDF](https://ucb-ee106.github.io/106b-sp24site/assets/proj/final_proj.pdf) - Proposals due 4/19
-- Discussion 11: Control Barrier Functions (Worksheet) (Boardwork) (Video) (Solutions)
+- Discussion 11: Optimal Control and Reinforcement Learning ([Worksheet](https://ucb-ee106.github.io/106b-sp24site/assets/disc/disc11_ocrl.pdf)) (Video) (Boardwork)
 
 <a id="Week14"></a>
